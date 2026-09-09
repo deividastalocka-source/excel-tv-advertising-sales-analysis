@@ -30,7 +30,7 @@ To create the scatterplot:
 5. The R² value was displayed on the chart.
 6. The axes were labelled to clearly identify the two variables.
 
-![Figure 1 - Scatterplot of TV Advertising Expenditure and Sales](images/Figure%201%20-%20TV%20Advertising%20Scatterplot.png)
+![Figure 1 - Scatterplot of TV Advertising Expenditure and Sales](../screenshots/01%20-%20TV%20Advertising%20Scatterplot.png)
 
 *Figure 1. Scatterplot of TV advertising expenditure and product sales with a linear trendline.*
 
